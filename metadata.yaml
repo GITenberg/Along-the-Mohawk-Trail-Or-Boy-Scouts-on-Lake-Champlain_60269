@@ -1,0 +1,49 @@
+_repo: Along-the-Mohawk-Trail-Or-Boy-Scouts-on-Lake-Champlain_60269
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: West, James E. (James Edward)
+    birthdate: &id001 1876
+    deathdate: 1948
+    gutenberg_agent_id: '50857'
+    url: http://www.gutenberg.org/2009/agents/50857
+    wikipedia: https://en.wikipedia.org/wiki/James_E._West_(Scouting)
+  illustrator:
+    agent_name: Schuyler, Remington
+    birthdate: 1884
+    deathdate: 1955
+    gutenberg_agent_id: '37260'
+    url: http://www.gutenberg.org/2009/agents/37260
+    wikipedia: https://en.wikipedia.org/wiki/Remington_Schuyler
+creator:
+  author:
+    agent_name: Fitzhugh, Percy Keese
+    aliases:
+    - Lloyd, Hugh
+    - Fitzhugh, Percy K.
+    - Fitzhugh, P. K. (Percy Keese)
+    birthdate: *id001
+    deathdate: 1950
+    gutenberg_agent_id: '2132'
+    url: http://www.gutenberg.org/2009/agents/2132
+    wikipedia: https://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
+description: ''
+gutenberg_issued: '2019-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60269'
+  lccn: '12020783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Travel -- Juvenile fiction'
+- !lcsh 'Boy Scouts of America -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'New York (State) -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Camping -- Juvenile fiction'
+- GITenberg
+title: Along the Mohawk Trail; Or, Boy Scouts on Lake Champlain
+url: http://www.gutenberg.org/ebooks/60269
