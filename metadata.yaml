@@ -1,9 +1,9 @@
 _repo: Along-the-Mohawk-Trail-Or-Boy-Scouts-on-Lake-Champlain_60269
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: West, James E. (James Edward)
-    birthdate: &id001 1876
+    birthdate: 1876
     deathdate: 1948
     gutenberg_agent_id: '50857'
     url: http://www.gutenberg.org/2009/agents/50857
@@ -15,6 +15,9 @@ contributor:
     gutenberg_agent_id: '37260'
     url: http://www.gutenberg.org/2009/agents/37260
     wikipedia: https://en.wikipedia.org/wiki/Remington_Schuyler
+covers:
+- cover_type: archival
+  image_path: 60269-h/images/cover.jpg
 creator:
   author:
     agent_name: Fitzhugh, Percy Keese
@@ -22,12 +25,14 @@ creator:
     - Lloyd, Hugh
     - Fitzhugh, Percy K.
     - Fitzhugh, P. K. (Percy Keese)
-    birthdate: *id001
+    birthdate: 1876
     deathdate: 1950
     gutenberg_agent_id: '2132'
     url: http://www.gutenberg.org/2009/agents/2132
     wikipedia: https://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60269#Along-the-Mohawk-Trail-Or-Boy-Scouts-on-Lake-Champlain
 gutenberg_issued: '2019-09-09'
 gutenberg_type: Text
 identifiers:
